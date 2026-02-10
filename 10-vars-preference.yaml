@@ -5,7 +5,7 @@
     NAME: "Ansible from PLAY"
   vars_files:
   - course.yaml
-  vars_promt:
+  vars_prompt:
   - name: NAME
     promt: Please enter name
     private: false
