@@ -7,7 +7,7 @@
   - course.yaml
   vars_prompt:
   - name: NAME
-    promt: Please enter name
+    prompt: Please enter name
     private: false
   tasks:
   - name: print name
