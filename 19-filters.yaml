@@ -4,7 +4,7 @@
   vars:
     topics: linux, shell, ansible
     course: "Devops with yaml"
-    myIP: 256.456.978.234
+    myIP: 3.84.243.182
     tagsmap:
       name: ansible
       project: roboshop
